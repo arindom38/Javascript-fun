@@ -16,7 +16,7 @@ const Graph= {
     b: ['g'],
     c: ['d'],
     d: ['b','e'],
-    G: ['e'],
+    g: ['e'],
     e: []
 }
 //BFS itterative method
